@@ -1,7 +1,6 @@
 {
   "basics": {
     "name": "Gunethra Bommineni",
-    // "label": "Scientist",
     "image": "",
     "email": "gunethrarp1@gmail.com",
     "phone": "+91 90004 79184",
@@ -41,7 +40,6 @@
       "url": "https://nss.iith.ac.in",
       "startDate": "2022-01",
       "endDate": "Present",
-      // "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
       "highlights": ["Contributed more than 120 hours of community service (as of Aug 2025)", "Participated in campus cleanliness drives and Swachh Bharat Abhiyan (Clean India) initiatives", "Designed awareness posters on social issues and participated in walkathons promoting public health and social causes", "Engaged in outreach programs at orphanages and nursing homes"]
     }
   ],
@@ -55,7 +53,6 @@
       "startDate": "1905-01-01",
       "endDate": "1905-01-01",
       "score": "7.52/10"
-      // "courses": ["Theory of Relativity"]
     }
   ],
   "awards": [
