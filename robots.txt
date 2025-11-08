@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://gunethra.github.io/sitemap.xml
+Sitemap: https://gunethra.github.io/gunethra.github.io-old//sitemap.xml
